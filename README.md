@@ -27,6 +27,12 @@ The Raspberry Pi Face Detection Door Lock project utilizes various components su
 - LED and buzzer for visual and audible notifications
 - Keypad module for OTP entry
 
+## Software Dependencies
+
+- Twilio API has been used for SMS alert system : [https://console.twilio.com/]
+- Freeimage API has been used for upload and access of images on cloud : [https://freeimage.host/]
+- Miniforge3 anaconda environment : [https://github.com/conda-forge/miniforge]
+
 ## Methodology
 
 1. Press the doorbell button to trigger the image capture process.
