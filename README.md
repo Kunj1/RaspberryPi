@@ -1,4 +1,4 @@
-# Raspberry Pi Face Detection Door Lock
+# PiGuard - Raspberry Pi Face Detection Door Lock
 
 Welcome to the Raspberry Pi Face Detection Door Lock project! This project combines face detection technology with Raspberry Pi to create a secure door lock system.
 
